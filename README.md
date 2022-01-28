@@ -1,1 +1,1 @@
-# Portfolio
+This project is a website portfolio which consists of my CV and skills I have developed during my educational journey. I have used HTML, CSS, JavaScript & PHP to create this website and I hope it helps you get a better understanding of me!
